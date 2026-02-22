@@ -10,13 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br><br>📚 I'm currently learning statistical modelling and advanced maths.<br><br>🎯 Experience in project coordination and community‑based initiatives, demonstrating structured problem‑solving, data‑driven thinking, and effective communication. Actively learning and developing skills in modelling and analytics, with a strong interest in applying data insights and predictive methods to support financial and statistical analysis.</p>
+<p align="left">✨ Creating bugs since 2023.<br><br>📚 I'm currently learning statistical modelling and advanced maths.<br><br>🎯 Experience in project coordination and community‑based initiatives, demonstrating structured problem‑solving, data‑driven thinking, and effective communication.  Actively learning and developing skills in modelling and analytics, with a strong interest in applying data insights and predictive methods to support financial and statistical analysis.</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgur.com/a/FdarEqH"  />
-</div>
+<img align="right" height="200" src="https://i.imgur.com/HSIUD3V.jpeg"  />
 
 ###
 
@@ -38,8 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -59,23 +55,6 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyawSzn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyawSzn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/RyawSzn/RyawSzn/output/snake.svg" alt="Snake animation" />
 
 ###
