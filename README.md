@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @RyawSzn -- Ryan_S.<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Business Analysis, Financial Analysis, and Risk Management.<br><br>📫 Email: yamchishea@gmail.com</p>
+<p align="left">👋 Hi, I’m @RyawSzn -- Ryan_S.<br><br>💞️ I’m looking to collaborate on Data Scientist, Data Analyst, Business Analyst, Financial Analyst, Risk Management Analyst<br><br>📫 Email: yamchishea@gmail.com</p>
 
 ###
 
@@ -16,9 +16,9 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
