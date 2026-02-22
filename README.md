@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryan_S. and I'm a student in Computational Data Science, from the Chinese University of Hong Kong.</p>
+<p align="left">👋 Hi, I’m @RyawSzn -- Ryan_S.<br><br>💞️ I’m looking to collaborate on Data Scientist, Data Analyst, Business Analyst, Financial Analyst, Risk Management Analyst<br><br>📫 Email: yamchishea@gmail.com</p>
 
 ###
 
