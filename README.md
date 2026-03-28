@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @RyawSzn -- Ryan Shea (Ryan_S.)<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Business Analysis, Financial Analysis, and Risk Management.<br><br>📫 Email: yamchishea@gmail.com</p>
+<p align="left">👋 Hi, I’m @RyawSzn -- Ryan_S.<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Business Analysis, Financial Analysis, and Risk Management.<br><br>📫 Email: yamchishea@gmail.com</p>
 
 ###
 
