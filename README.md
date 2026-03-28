@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @RyawSzn -- Ryan_S.<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Business Analysis, Financial Analysis, and Risk Management.<br><br>📫 Email: yamchishea@gmail.com</p>
+<p align="left">👋 Hi, I’m @RyawSzn -- Ryan Shea (Ryan_S.)<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Business Analysis, Financial Analysis, and Risk Management.<br><br>📫 Email: yamchishea@gmail.com</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br><br>📚 I'm currently learning statistical modelling and advanced maths.<br><br>🎯 Experience in project coordination and community‑based initiatives, demonstrating structured problem‑solving, data‑driven thinking, and effective communication.  Actively learning and developing skills in modelling and analytics, with a strong interest in applying data insights and predictive methods to support financial and statistical analysis.</p>
+<p align="left">✨ Creating impacts since 2023.<br><br>📚 I'm currently learning statistical modelling and advanced maths.<br><br>🎯 Experience in making precise predictions with regression, and developed advanced proficiency in analyzing data using R, solving algorithmic challenges with C++.  Actively learning and developing skills in AI modelling and analytics, with a strong interest in applying data insights and predictive methods to support financial and statistical analysis.</p>
 
 ###
 
