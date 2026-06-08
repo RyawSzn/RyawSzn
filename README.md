@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating impacts since 2023.<br><br>📚 I'm currently learning statistical modelling and advanced maths.<br><br>🎯 Experience in making precise predictions with regression, and developed advanced proficiency in analyzing data using R, solving algorithmic challenges with C++.  Actively learning and developing skills in AI modelling and analytics, with a strong interest in applying data insights and predictive methods to support financial and statistical analysis.</p>
+<p align="left">✨ Creating impacts since 2023.<br><br>📚 I'm currently learning statistical modelling and advanced maths.<br><br>🎯 Experience in making precise predictions with regression, and developed advanced proficiency in analyzing data using R, researching recall parameterization with faiss.  Actively learning and developing skills in modeling and algorithmic methodologies, with a strong interest in applying data insights and predictive methods to optimize financial and statistical analysis.</p>
 
 ###
 
