@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @RyawSzn - Ryan_S.<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Full-stack Development, Statistics Modeling, Financial Analysis.<br><br>📫 Email: rycshea.hk@outlook.com</p>
+<p align="left">👋 Hi, I’m @RyawSzn - Ryan_S.<br><br>💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis, Full-stack Development, Statistics Modeling, Financial Analysis.<br><br>📫 Email: rycshea.hk@gmail.com</p>
 
 ###
 
